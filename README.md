@@ -1,6 +1,12 @@
 # This tool get list dependencies of npm package you want through the url
 
-## Default package is 'express', clone and custom another package npm you want.
+## ✔️ Default package is 'express', clone and custom another package npm you want.
+
+# Result:
+<p align="center" style="margin-top:20px">
+  <img src="" alt="result" style="vertical-align:top; margin:4px" height="25px">
+</p>
+
 
 ## Project setup
 ```
