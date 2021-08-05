@@ -4,7 +4,7 @@
 
 ### Result:
 <p align="center" style="margin-top:20px">
-  <img src="https://github.com/wahinguyen/tool-get-dependencies-npm-package/blob/main/result-tool.png" alt="result" style="vertical-align:top; margin:4px" height="25px">
+  <img src="https://github.com/wahinguyen/tool-get-dependencies-npm-package/blob/main/result-tool.png" alt="result" vspace="0" width="460">
 </p>
 
 
